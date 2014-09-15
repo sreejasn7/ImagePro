@@ -7,7 +7,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolb
 from matplotlib.figure import Figure
 from tkintertable.Tables import TableCanvas
 from tkintertable.TableModels import TableModel
-
+#import v4l2capture
 #================================Functions==================================================
 def video():
 
